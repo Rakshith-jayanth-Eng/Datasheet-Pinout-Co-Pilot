@@ -1,0 +1,6 @@
+{
+  "name": "Datasheet Pinout Co-Pilot",
+  "description": "Developer utility for extracting IC pinouts, electrical ratings, critical hardware traps, and ready-to-compile C/C++ peripheral initialization code from datasheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
